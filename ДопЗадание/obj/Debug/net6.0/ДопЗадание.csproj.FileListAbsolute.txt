@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.AssemblyInfo.cs
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\bin\Debug\net6.0\ДопЗадание.exe
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\bin\Debug\net6.0\ДопЗадание.deps.json
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\bin\Debug\net6.0\ДопЗадание.runtimeconfig.json
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\bin\Debug\net6.0\ДопЗадание.dll
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\bin\Debug\net6.0\ДопЗадание.pdb
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.dll
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\refint\ДопЗадание.dll
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.pdb
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ДопЗадание.genruntimeconfig.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\ДопЗадание\obj\Debug\net6.0\ref\ДопЗадание.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.AssemblyInfo.cs
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\bin\Debug\net6.0\20.exe
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\bin\Debug\net6.0\20.deps.json
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\bin\Debug\net6.0\20.runtimeconfig.json
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\bin\Debug\net6.0\20.dll
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\bin\Debug\net6.0\20.pdb
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.dll
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\refint\20.dll
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.pdb
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\20.genruntimeconfig.cache
+C:\Users\HP\Documents\Учеба\Программирование C sharp\seminar3\20\obj\Debug\net6.0\ref\20.dll
